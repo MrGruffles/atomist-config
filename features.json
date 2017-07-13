@@ -27,6 +27,16 @@
                     "followers": []
                 }
             ]
+        },
+        "gorton": {
+            "features": [
+                {
+                    "name": "SpringBoot.Structure",
+                    "followers": [
+                        "truffles"
+                    ]
+                }
+            ]
         }
     }
 }
